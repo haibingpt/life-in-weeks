@@ -1,9 +1,32 @@
-baseURL = 'https://weeks.ginatrapani.org/'
-languageCode = 'en-us'
-title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
 
 
+baseURL = "/"
+languageCode = "en-us"
+title = "Life in Weeks"
+
+[build]
+  writeStats = true
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
 [params]
-author = "Gina Trapani"
+  author = "haibin"
+
+[build.processing]
+  css = true
+  js = true
+  html = true
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
