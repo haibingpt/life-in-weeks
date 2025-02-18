@@ -4,10 +4,52 @@
 #
 
 "1984-08-15":
-    - headline: "🐣 I was born"
-      description: "I entered the world at around 9am in Brooklyn, New York, USA, the youngest of 4 by far, a happy accident. Thanks, Mom. Dad came to the hospital in a jacket and tie to meet me for the first time."
-      based: "Brooklyn"
+    - headline: "🐣 出生了"
+      description: ""
+      based: "高安"
       doing: "I was tiny"
+
+"1990-09-01":
+    - headline: "我读小学了"
+      description: "如愿读小学了"
+      based: "高安"
+      doing: "小学"
+
+"1996-09-01":
+    - headline: "我读中学了"
+      description: "第一次离开父母，在学校寄宿"
+      based: "高安"
+      doing: "初中"
+
+"1999-09-01":
+    - headline: "我读中学了"
+      description: "第一次离开父母，在学校寄宿"
+      based: "高安"
+      doing: "高中"
+
+"2002-07-01":
+    - headline: "复读高三"
+      description: "由于考试前感染病毒，高考前一个月没有上学，高考失败，成绩为546分"
+      based: "高安"
+      doing: "高中"
+
+"2003-09-01":
+    - headline: "桂电读大学"
+      description: "第一次离开父母，在学校寄宿"
+      based: "桂林"
+      doing: "大学"
+
+"2007-09-01":
+    - headline: "湖大读研"
+      description: "第一次离开父母，在学校寄宿"
+      based: "长沙"
+      doing: "研究生"
+
+"2010-07-01":
+    - headline: "研究生毕业"
+      description: "答辩不是很顺利，但是收获满满三年"
+      based: "长沙"
+      doing: "研究生"
 
 "2025-02-18":
     - headline: "📍 Made this"

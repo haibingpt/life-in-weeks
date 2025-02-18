@@ -6,39 +6,42 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
-- class_name: "brooklyn"
+# 地点（边框颜色）- 使用更有特色的颜色
+- class_name: "高安"
   element: "border"
-  color_name: "#8eb2d6"
-- class_name: "san-diego"
+  color_name: "#5B8FB9"    # 沉稳的蓝色
+- class_name: "桂林"
   element: "border"
-  color_name: "#FCC737"
-- class_name: "north-carolina"
+  color_name: "#7CB342"    # 清新的绿色
+- class_name: "长沙"
   element: "border"
-  color_name: "#118B50"
-- class_name: "poughkeepsie"
+  color_name: "#FF7043"    # 活力的橙色
+- class_name: "深圳"
   element: "border"
-  color_name: "#469046"
+  color_name: "#5C6BC0"    # 现代的靛蓝色
+
+# 人生阶段（背景颜色）- 使用渐进的柔和色调
 - class_name: "i-was-tiny"
   element: "background-color"
-  color_name: "white"
-- class_name: "kindergartner"
+  color_name: "#FFFFFF"    # 纯白色
+- class_name: "幼儿园"
   element: "background-color"
-  color_name: "#FFF6DA"
-- class_name: "student"
+  color_name: "#FFE0B2"    # 温暖的浅橙色
+- class_name: "小学"
   element: "background-color"
-  color_name: "#E8F9FF"
-- class_name: "high-school-student"
+  color_name: "#C8E6C9"    # 清新的浅绿色
+- class_name: "初中"
   element: "background-color"
-  color_name: "#C9E9D2"
-- class_name: "college-student"
+  color_name: "#B3E5FC"    # 明亮的浅蓝色
+- class_name: "高中"
   element: "background-color"
-  color_name: "#FFE3E3"
-- class_name: "working"
+  color_name: "#E1BEE7"    # 优雅的浅紫色
+- class_name: "大学"
   element: "background-color"
-  color_name: "#F8E7F6"
-- class_name: "freelancing"
+  color_name: "#FFCDD2"    # 活力的浅红色
+- class_name: "研究生"
   element: "background-color"
-  color_name: "#d6d6f0"
-- class_name: "funemployed"
+  color_name: "#F8BBD0"    # 成熟的粉色
+- class_name: "工作"
   element: "background-color"
-  color_name: "white"
+  color_name: "#B2DFDB"    # 专业的青色
