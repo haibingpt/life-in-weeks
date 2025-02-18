@@ -6,9 +6,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Life in Weeks"
 
-[build]
-  writeStats = true
-
 [module]
   [[module.mounts]]
     source = "assets"
@@ -17,14 +14,6 @@ title = "Life in Weeks"
 [params]
   author = "haibin"
 
-[build.processing]
-  css = true
-  js = true
-  html = true
-
-[build.processing.css]
-  bundle = true
-  minify = true
 
 [markup]
   [markup.goldmark]
