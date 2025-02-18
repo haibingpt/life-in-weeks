@@ -1,13 +1,14 @@
 ---
 title       : My Life in Weeks
-start_date	: 1975-09-19
-end_year    : 2075
+start_date	: 1984-08-15
+end_year    : 2084
 ---
 
-👋 Hi, I'm [Gina](https://ginatrapani.org). This is a map of my life, where each week I've been alive is a little box. Tap a box to see what I was doing where that week.
+👋 嗨，我是[haibin](https://week.haibingpt.work)。这是我生命的地图，每一个小格子代表我活过的一周。点击格子可以看到那一周我在做什么。
 
-📍 Read more about [Life in Weeks at Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html). I adapted [the code that generated this page](https://github.com/ginatrapani/life-in-weeks) from [Buster Benson](https://busterbenson.com/life-in-weeks).
+📍 了解更多关于[Wait But Why网站上的"生命周"](https://waitbutwhy.com/2014/05/life-weeks.html)。我改编了[Buster Benson](https://busterbenson.com/life-in-weeks)的[代码来生成这个页面](https://github.com/haibingpt/life-in-weeks)。
 
-🌱 This life and this map are a work in progress. I'll update it as I go.
+🌱 这生命和地图都在进行中。我会随时更新。
 
-🍯 "I always get to where I am going by walking away from where I have been." – Winnie the Pooh
+🍯 "我总是通过离开曾经的地方来到达我要去的地方。"——小熊维尼。
+
